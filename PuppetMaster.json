@@ -11,7 +11,7 @@
       "emote",
       "plugin"
     ],
-    "DalamudApiLevel": 8,
+    "DalamudApiLevel": 9,
     "LoadPriority": 0,
     "Punchline": "Let others tell you what to do.",
     "IsHide": false,
